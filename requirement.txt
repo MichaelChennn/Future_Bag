@@ -1,0 +1,8 @@
+sounddevice
+openai
+requests
+scipy
+google-cloud-storage
+shutil
+opencv-python
+backgroundremover
