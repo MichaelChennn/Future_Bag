@@ -17,7 +17,7 @@ protect object data: soft delete policy -> set custom      retention duration 0 
 - Click **GRANT ACCESS**
 ```
 - New principals: allUsers
-- Assign roles: Storage Legacy Bucket Owner
+- Assign roles: Storage Legacy Object Owner
 ```
 - Click **SAVE**
 - Click **ALLOW PUBLIC ACCESS**
